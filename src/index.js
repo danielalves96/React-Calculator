@@ -6,7 +6,7 @@ import Calculator from './main/Calculator';
 
 ReactDOM.render(
   <>
-    <h1> Calculatora </h1>
+    <h1> Calculadora React </h1>
     <Calculator/>
   </>,
   document.getElementById('root')

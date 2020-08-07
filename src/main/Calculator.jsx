@@ -42,7 +42,6 @@ export default class Calculator extends Component {
                 <Button label="0" click={addDigit} double/>
                 <Button label="." click={addDigit}/>
                 <Button label="=" click={setOperation} operation/>
-
             </div>
         )
     }
