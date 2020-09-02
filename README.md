@@ -3,9 +3,9 @@
 
 ### Features
 
-- Calculadora de 4 operações desenvolvida em ReactJS
-- Suportada nos mais diversos navegadores.;
-- Design inovador;
+- Calculadora de 4 operações desenvolvida em ReactJS;
+- Suportada nos mais diversos navegadores;
+- Design inovador.
 
 ## Screenshot
 
